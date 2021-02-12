@@ -1,0 +1,46 @@
+Hello sir, thats ur glfw version : 3.3.2 Win32 WGL EGL OSMesa VisualC
+GL Context Params:
+
+GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS 160
+GL_MAX_CUBE_MAP_TEXTURE_SIZE 16384
+GL_MAX_DRAW_BUFFERS 8
+GL_MAX_FRAGMENT_UNIFORM_COMPONENTS 16384
+GL_MAX_TEXTURE_IMAGE_UNITS 32
+GL_MAX_TEXTURE_SIZE 16384
+GL_MAX_VARYING_FLOATS 128
+GL_MAX_VERTEX_ATTRIBS 29
+GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS 32
+GL_MAX_VERTEX_UNIFORM_COMPONENTS 16384
+GL_MAX_VIEWPORT_DIMS 16384 16384
+GL_STEREO 0
+-----------------------------
+
+Program 3
+--------------------
+shader programme 3 info:
+GL_LINK_STATUS = 1
+GL_ATTACHED_SHADERS = 2
+GL_ACTIVE_ATTRIBUTES = 1
+0 type:vec3 name:aPos location:0
+0 type:mat4 name:model location:0
+1 type:mat4 name:projection location:1
+2 type:mat4 name:view location:2
+Program info log for GL index 3:
+
+Program 6
+--------------------
+shader programme 6 info:
+GL_LINK_STATUS = 1
+GL_ATTACHED_SHADERS = 2
+GL_ACTIVE_ATTRIBUTES = 2
+0 type:vec3 name:aNormal location:1
+1 type:vec3 name:aPos location:0
+0 type:vec3 name:lightColor location:0
+1 type:vec3 name:lightPos location:1
+2 type:mat4 name:model location:2
+3 type:vec3 name:objectColor location:3
+4 type:mat4 name:projection location:4
+5 type:mat4 name:view location:5
+6 type:vec3 name:viewPos location:6
+Program info log for GL index 6:
+
